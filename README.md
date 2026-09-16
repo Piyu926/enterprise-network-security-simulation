@@ -70,13 +70,13 @@ line vty 0 4
 ### 📸 Lab Evidence
 
 #### Network Topology
-![Network Topology](Enterprise-Network-Security/Screenshots/topology.png.png)
+![Network Topology](Enterprise-Network-Security/Screenshots/topology.png)
 
 #### Administrative Access & NAT/PAT Verification
-![Admin Verification](Enterprise-Network-Security/Screenshots/admin-verification.png.png)
+![Admin Verification](Enterprise-Network-Security/Screenshots/admin-verification.png)
 
 #### Extended ACL Drop Verification
-![Guest ACL Blocked](Enterprise-Network-Security/Screenshots/guest-acl-blocked.png.png)
+![Guest ACL Blocked](Enterprise-Network-Security/Screenshots/guest-acl-blocked.png)
 
 
 
