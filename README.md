@@ -67,6 +67,17 @@ line vty 0 4
 | **Extended ACL** | `Guest-PC` -> `ping 200.100.1.10` | Destination host unreachable | Passed |
 | **SSHv2 Session** | `Admin-PC` -> `ssh -l admin 192.168.1.1` | Successfully opened `Edge-Router#` | Passed |
 
+### 📸 Lab Evidence
+
+#### Network Topology
+![Network Topology](Enterprise-Network-Security/Screenshots/topology.png.png)
+
+#### Administrative Access & NAT/PAT Verification
+![Admin Verification](Enterprise-Network-Security/Screenshots/admin-verification.png.png)
+
+#### Extended ACL Drop Verification
+![Guest ACL Blocked](Enterprise-Network-Security/Screenshots/guest-acl-blocked.png.png)
+
 
 
 
